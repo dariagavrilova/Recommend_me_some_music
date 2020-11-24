@@ -1,11 +1,11 @@
 # project3
 
-Song advisor - "recomend me some music"
+Song advisor - "Recommend me some music"
 
 - asks to input your favourite song
 - first looks for a song in a list of top 100 songs
 - than looks for a song id in spotify, and checks its features
-- by features looks a similiar song and advises it
+- by features looks for a similiar song and advises it
 
 
 Workflow
