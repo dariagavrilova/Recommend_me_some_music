@@ -1,4 +1,4 @@
-# project3
+# Recommend me some music
 
 Song advisor - "Recommend me some music"
 
